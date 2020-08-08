@@ -2,7 +2,7 @@
 
 ---
 <img align="left" alt="Ben's GitHub Stats" src="https://github-readme-stats-git-master.bensilv.vercel.app/api?username=bensilv&show_icons=true&hide_border=true" />
-
+[![Ben's github stats](https://github-readme-stats-git-master.bensilv.vercel.app/api?username=bensilv)](https://github.com/bensilv/github-readme-stats)
 <!--
 **bensilv/bensilv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
