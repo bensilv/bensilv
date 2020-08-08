@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ---
-<img align="left" alt="Ben's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bensilv)](https://github.com/anuraghazra/github-readme-stats" />
+<img align="left" alt="Ben's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bensilv&show_icons=true&hide_border=true" />
 
 <!--
 **bensilv/bensilv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
