@@ -1,4 +1,4 @@
-### About Me <img alt="Brown University" width="50px" src="icons/memoji-wave.png" />
+### About Me <img alt="Brown University" width="50px" src="https://github.com/bensilv/bensilv/blob/master/icons/memoji-wave.png?raw=true" />
 I'm a Junior at Brown University <img alt="Brown University" width="14px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Brown_University_coat_of_arms.svg/1200px-Brown_University_coat_of_arms.svg.png" /> pursuing an ScB in computer science! In addition to loving computer science I enjoy filmmaking and photography, check it out [here](bensilv.com) 📸.
 
 ---
