@@ -1,10 +1,10 @@
-### About Me
-I'm a Junior at Brown University pursuing an ScB in computer science!
+### About Me 😉👋 <img align="left" alt="Brown University" width="12px" src="icons/memoji-wave.png" />
+I'm a Junior at Brown University <img align="left" alt="Brown University" width="12px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Brown_University_coat_of_arms.svg/1200px-Brown_University_coat_of_arms.svg.png" /> pursuing an ScB in computer science! In addition to loving computer science I enjoy filmmaking and photography, check it out [here](bensilv.com) 📸.
 
 ---
 ### Currently Working On
- * Course Development for Introduction to Algorithms & Data Structures - working on redesigning homeworks, projects, lectures, sections and more for this 250+ Brown CS course as well as creating a robust autograder to give student feedback.
- * Bubble - site that loads and clusters news hourly from diverse sources to see how different sources are discussing todays largest stories. Check it out [here](https://github.com/BubbleNews/bubble)
+ * Course Development for Introduction to Algorithms & Data Structures: redesigning homeworks, projects, lectures, sections and more for this 250+ Brown CS course as well as creating a robust autograder to give student feedback (in a private repo).
+ * Bubble: built site that loads and clusters news hourly from diverse sources to see how different sources are discussing todays largest stories. Check it out [here](https://github.com/BubbleNews/bubble)
  * TA for Deep Learning course at Brown University
 
 ---
