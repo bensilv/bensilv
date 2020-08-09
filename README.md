@@ -38,4 +38,4 @@ I'm a Junior at Brown University pursuing an ScB in computer science!
 </br></br>
 
 ---
-![Ben's github stats](https://github-readme-stats-git-master.bensilv.vercel.app/api?username=bensilv&show_border=false&hide=&show_icons=true&include_all_commits=true) 
+![Ben's github stats](https://github-readme-stats-git-master.bensilv.vercel.app/api?username=bensilv&hide_border=true&hide=&show_icons=true&include_all_commits=true) 
