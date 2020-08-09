@@ -1,4 +1,19 @@
-### Hi there 👋
+### About Me
+I'm a Junior at Brown University pursuing an ScB in computer science!
+
+---
+### Currently Working On
+ * Course Development for Introduction to Algorithms & Data Structures - working on redesigning homeworks, projects, lectures, sections and more for this 250+ Brown CS course as well as creating a robust autograder to give student feedback.
+ * Bubble - site that loads and clusters news hourly from diverse sources to see how different sources are discussing todays largest stories. Check it out [here](https://github.com/BubbleNews/bubble)
+ * TA for Deep Learning course at Brown University
+
+---
+### Past Work
+* Intern at [Cloudbakers](https://www.cloudbakers.com/) Summer 2020 & 2019: gained experience with full stack development and Google Cloud Platform
+* TA for Introduction to Algorithms & Data Structures at Brown University (Spring 2019)
+* [FilterNet](https://github.com/ArYalavarti/FilterNet) AI photo editor using deep learning and Tensorflow
+* [Colorizer](https://github.com/bensilv/Colorizer) AI photo colorization of black and white photos using deep learning and Tensorflow
+
 ---
 ### Languages & Tools
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](https://github.com/topics/python "Python")
@@ -23,4 +38,4 @@
 </br></br>
 
 ---
-![Ben's github stats](https://github-readme-stats-git-master.bensilv.vercel.app/api?username=bensilv&hide=&show_icons=true&include_all_commits=true) 
+![Ben's github stats](https://github-readme-stats-git-master.bensilv.vercel.app/api?username=bensilv&show_border=false&hide=&show_icons=true&include_all_commits=true) 
